@@ -1,18 +1,18 @@
 # Fdb version 3
-["biber Bootstrapping"] 1721039989 "Bootstrapping.bcf" "Bootstrapping.bbl" "Bootstrapping" 1721039998
-  "Bootstrapping.bcf" 1721039998 109475 8a59abaa1426d6bf32997c036e7d09da "pdflatex"
+["biber Bootstrapping"] 1721040391 "Bootstrapping.bcf" "Bootstrapping.bbl" "Bootstrapping" 1721040893
+  "Bootstrapping.bcf" 1721040893 109475 8a59abaa1426d6bf32997c036e7d09da "pdflatex"
   "references/references.bib" 1721039707 7445 fb04f5b1731794ae55a5f50172d3f1f3 ""
   (generated)
   "Bootstrapping.bbl"
   "Bootstrapping.blg"
-["makeindex Bootstrapping.idx"] 1721039984 "Bootstrapping.idx" "Bootstrapping.ind" "Bootstrapping" 1721039998
-  "Bootstrapping.idx" 1721039998 88 b9c299615fd4ecffa4aebc3d61e407f3 "pdflatex"
+["makeindex Bootstrapping.idx"] 1721040387 "Bootstrapping.idx" "Bootstrapping.ind" "Bootstrapping" 1721040893
+  "Bootstrapping.idx" 1721040892 88 b9c299615fd4ecffa4aebc3d61e407f3 "pdflatex"
   (generated)
   "Bootstrapping.ilg"
   "Bootstrapping.ind"
-["pdflatex"] 1721039994 "/home/hagenw27/Documents/projects/atdi/bootstrapping/paper/Bootstrapping.tex" "Bootstrapping.pdf" "Bootstrapping" 1721039998
+["pdflatex"] 1721040890 "/home/hagenw27/Documents/projects/atdi/bootstrapping/paper/Bootstrapping.tex" "Bootstrapping.pdf" "Bootstrapping" 1721040893
   "/etc/texmf/web2c/texmf.cnf" 1720367976 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/hagenw27/Documents/projects/atdi/bootstrapping/paper/Bootstrapping.tex" 1721039909 4123 4ebb7aa763936f3e87df21d7d1c506be ""
+  "/home/hagenw27/Documents/projects/atdi/bootstrapping/paper/Bootstrapping.tex" 1721040890 3921 026e93bc2bffe391c0f069bb1bd16cca ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -287,17 +287,17 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1720688705 2799512 401616460e8dc540cb576443ad15efe3 ""
   "Abstract_de.tex" 1721039707 1818 e139a3a1d950785df895923b455179e3 ""
   "Abstract_en.tex" 1721039707 1712 182a1dba386c69a767f8642e0ee152e1 ""
-  "Bootstrapping.aux" 1721039998 27992 dddd1bf4886f3c10e71b4fe1abfd5e26 "pdflatex"
-  "Bootstrapping.bbl" 1721039990 23269 8c4dfffc57f8ec643c8532cce5e0866e "biber Bootstrapping"
-  "Bootstrapping.ind" 1721039998 345 2f372d85fb24d142d503fe678412b362 "makeindex Bootstrapping.idx"
-  "Bootstrapping.lof" 1721039998 549 a93e74c431ef1610315c2c6dd53563c1 "pdflatex"
-  "Bootstrapping.lol" 1721039998 1075 6c05fd3e68c44876b2ff7b3c5fd5d984 "pdflatex"
-  "Bootstrapping.lot" 1721039998 464 7501ff57a5ae072f41a101b6ec238004 "pdflatex"
+  "Bootstrapping.aux" 1721040893 27992 3af5902cff7ddba1e34367270a8fedff "pdflatex"
+  "Bootstrapping.bbl" 1721040392 23269 8c4dfffc57f8ec643c8532cce5e0866e "biber Bootstrapping"
+  "Bootstrapping.ind" 1721040893 345 2f372d85fb24d142d503fe678412b362 "makeindex Bootstrapping.idx"
+  "Bootstrapping.lof" 1721040893 549 a93e74c431ef1610315c2c6dd53563c1 "pdflatex"
+  "Bootstrapping.lol" 1721040893 1075 6c05fd3e68c44876b2ff7b3c5fd5d984 "pdflatex"
+  "Bootstrapping.lot" 1721040893 464 7501ff57a5ae072f41a101b6ec238004 "pdflatex"
   "Bootstrapping.nls" 0 -1 0 ""
-  "Bootstrapping.out" 1721039996 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Bootstrapping.run.xml" 1721039998 2480 6712a1d426b08008e952b6fa233414e0 "pdflatex"
-  "Bootstrapping.tex" 1721039909 4123 4ebb7aa763936f3e87df21d7d1c506be ""
-  "Bootstrapping.toc" 1721039998 4014 0019702a8ecf470f69e90045079c4d0d "pdflatex"
+  "Bootstrapping.out" 1721040892 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Bootstrapping.run.xml" 1721040893 2480 6712a1d426b08008e952b6fa233414e0 "pdflatex"
+  "Bootstrapping.tex" 1721040890 3921 026e93bc2bffe391c0f069bb1bd16cca ""
+  "Bootstrapping.toc" 1721040893 4014 0019702a8ecf470f69e90045079c4d0d "pdflatex"
   "Eigenstaendigkeitserklaerung.tex" 1721039707 556 a3081817dd1f137e2da48a808a14df0c ""
   "chapter/01_Einfuehrung.tex" 1721039707 3185 8984f725255cf188f3ea3af9b234b1a5 ""
   "chapter/02_Grundlagen.tex" 1721039707 11525 e5ea2f598789ac291523aefb74ba6240 ""
@@ -312,7 +312,7 @@
   "references/acronyms.tex" 1721039707 715 e9bc2015b1117898ed9be2e1ce9fe21c ""
   "settings/adjustments.tex" 1721039707 3233 5039eedb39182b6b7e720a2ccc39cf25 ""
   "settings/settings.tex" 1721039820 3222 164594012f1d989cb08914b04b9e3cca ""
-  "settings/titlepage.tex" 1721039707 5154 307cf5727a1774b97266b44aaa057467 ""
+  "settings/titlepage.tex" 1721040860 5107 c1a6547329d1393eba096754bd6ad38d ""
   (generated)
   "Bootstrapping.aux"
   "Bootstrapping.bcf"
