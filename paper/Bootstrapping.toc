@@ -1,0 +1,48 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.4}%
+\contentsline {section}{\numberline {1.1}Aufgabenbeschreibung}{1}{section.5}%
+\contentsline {section}{\numberline {1.2}Herangehensweise}{1}{section.6}%
+\contentsline {chapter}{\numberline {2}Grundlagen}{3}{chapter.7}%
+\contentsline {section}{\numberline {2.1}Begriffserklärungen}{3}{section.9}%
+\contentsline {subsection}{\numberline {2.1.1}OSI-7-Schichtenmodell}{3}{subsection.10}%
+\contentsline {subsection}{\numberline {2.1.2}Eingebettete Systeme}{4}{subsection.12}%
+\contentsline {subsection}{\numberline {2.1.3}Drahtlose Sensornetze}{4}{subsection.13}%
+\contentsline {subsection}{\numberline {2.1.4}Smart Objects}{5}{subsection.15}%
+\contentsline {subsection}{\numberline {2.1.5}Internet-of-Things}{6}{subsection.16}%
+\contentsline {section}{\numberline {2.2}Theoretische Grundlagen}{7}{section.18}%
+\contentsline {section}{\numberline {2.3}Kommunikationstechnologien}{7}{section.19}%
+\contentsline {section}{\numberline {2.4}Betriebssysteme für SmartObjects}{7}{section.20}%
+\contentsline {section}{\numberline {2.5}Zusammenfassung/Bewertung}{7}{section.21}%
+\contentsline {chapter}{\numberline {3}Konzeption / Architektur}{9}{chapter.22}%
+\contentsline {section}{\numberline {3.1}Entwurf des eigenen Lösungskonzepts}{9}{section.23}%
+\contentsline {section}{\numberline {3.2}Auswahl/Entwurf der Hardware}{9}{section.24}%
+\contentsline {section}{\numberline {3.3}Auswahl/Entwurf der Software}{9}{section.25}%
+\contentsline {subsection}{\numberline {3.3.1}Entwurf von Lösungsmodulen}{9}{subsection.26}%
+\contentsline {chapter}{\numberline {4}Implementierung}{11}{chapter.27}%
+\contentsline {section}{\numberline {4.1}Aufbau der Implementierung}{11}{section.28}%
+\contentsline {section}{\numberline {4.2}Contiki-Verzeichnisstruktur}{11}{section.29}%
+\contentsline {subsection}{\numberline {4.2.1}Übersetzung eines Contiki-Programms}{12}{subsection.58}%
+\contentsline {subsection}{\numberline {4.2.2}Programmieren eines Mikrocontrollers}{13}{subsection.77}%
+\contentsline {chapter}{\numberline {5}Tests}{15}{chapter.102}%
+\contentsline {section}{\numberline {5.1}Herleitung von Test-Cases}{15}{section.103}%
+\contentsline {subsection}{\numberline {5.1.1}Funktionale Tests}{15}{subsection.104}%
+\contentsline {subsection}{\numberline {5.1.2}Leistungstests/Performancetests}{15}{subsection.105}%
+\contentsline {section}{\numberline {5.2}Bewertung der Ergebnisse}{15}{section.106}%
+\contentsline {chapter}{\numberline {6}Fazit}{17}{chapter.107}%
+\contentsline {section}{\numberline {6.1}Analyse der Implementierung}{17}{section.108}%
+\contentsline {subsection}{\numberline {6.1.1}Kostenbetrachtung}{17}{subsection.109}%
+\contentsline {subsubsection}{\nonumberline Materialkosten}{17}{subsubsection*.111}%
+\contentsline {subsubsection}{\nonumberline Entwicklungskosten iec104}{18}{subsubsection*.114}%
+\contentsline {section}{\numberline {6.2}Anwendungsmöglichkeiten}{20}{section.115}%
+\contentsline {subsection}{\numberline {6.2.1}Anwendungsbereiche von Smart Objects}{20}{subsection.116}%
+\contentsline {subsection}{\numberline {6.2.2}Anwendungsmöglichkeiten für die Implementierung}{21}{subsection.117}%
+\contentsline {subsection}{\numberline {6.2.3}Erweiterungsvorschläge für die Implementierung}{21}{subsection.118}%
+\contentsline {section}{\numberline {6.3}Zusammenfassung}{22}{section.119}%
+\contentsline {chapter}{\numberline {A}Der Blindtext}{25}{appendix.120}%
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{27}{chapter*.121}%
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{29}{chapter*.122}%
+\contentsline {chapter}{\nonumberline {Quelltextverzeichnis}}{31}{chapter*.123}%
+\contentsline {chapter}{{Stichwortverzeichnis}}{33}{section*.124}%
+\contentsline {chapter}{\nonumberline {Literaturverzeichnis}}{35}{chapter*.126}%
+\contentsline {chapter}{\nonumberline Eigenständigkeitserklärung}{37}{chapter*.127}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
