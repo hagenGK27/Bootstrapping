@@ -1,7 +1,5 @@
 This is makeindex, version 2.15 [TeX Live 2022/dev] (kpathsea + Thai support).
 Scanning style file ./settings/indexstyle.ist............done (12 attributes redefined, 0 ignored).
-Scanning input file Bootstrapping.idx....done (3 entries accepted, 0 rejected).
-Sorting entries....done (4 comparisons).
-Generating output file Bootstrapping.ind....done (18 lines written, 0 warnings).
-Output written in Bootstrapping.ind.
+Scanning input file Bootstrapping.idx...done (0 entries accepted, 0 rejected).
+Nothing written in Bootstrapping.ind.
 Transcript written in Bootstrapping.ilg.

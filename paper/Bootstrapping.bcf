@@ -2344,46 +2344,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references/references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">RFC1122</bcf:citekey>
-    <bcf:citekey order="2">Heath:EmbeddedSystemsDesign</bcf:citekey>
-    <bcf:citekey order="3">vasseur10interconnecting</bcf:citekey>
-    <bcf:citekey order="4">vasseur10interconnecting</bcf:citekey>
-    <bcf:citekey order="5">vasseur10interconnecting</bcf:citekey>
-    <bcf:citekey order="6">Bormann:6LoWPAN</bcf:citekey>
-    <bcf:citekey order="6">Bormann:6LoWPAN</bcf:citekey>
-    <bcf:citekey order="7">Bormann:6LoWPAN</bcf:citekey>
-    <bcf:citekey order="8">Bormann:6LoWPAN</bcf:citekey>
-    <bcf:citekey order="9">Ludewig:SoftwareEngineering</bcf:citekey>
-    <bcf:citekey order="10">vasseur10interconnecting</bcf:citekey>
-    <bcf:citekey order="11">Vermesan:TheInternetOfThings</bcf:citekey>
-    <bcf:citekey order="12">Vermesan:TheInternetOfThings</bcf:citekey>
-    <bcf:citekey order="13">Hersent:TheInternetOfThings</bcf:citekey>
-    <bcf:citekey order="14">Contiki-syslog</bcf:citekey>
-    <bcf:citekey order="15">Ott2012</bcf:citekey>
-    <bcf:citekey order="16">Ott2012</bcf:citekey>
-    <bcf:citekey order="17">zigbee-ip</bcf:citekey>
-    <bcf:citekey order="18">RFC6550</bcf:citekey>
-    <bcf:citekey order="19">tsiftes10rpl</bcf:citekey>
-    <bcf:citekey order="20">ko11beyond</bcf:citekey>
-    <bcf:citekey order="21">ko11beyond</bcf:citekey>
-    <bcf:citekey order="22">dunkels11contikimac</bcf:citekey>
-    <bcf:citekey order="23">dunkels11adhoc</bcf:citekey>
-    <bcf:citekey order="24">dunkels11adhoc</bcf:citekey>
-    <bcf:citekey order="26">RFC1122</bcf:citekey>
-    <bcf:citekey order="27">Heath:EmbeddedSystemsDesign</bcf:citekey>
-    <bcf:citekey order="28">vasseur10interconnecting</bcf:citekey>
-    <bcf:citekey order="29">Bormann:6LoWPAN</bcf:citekey>
-    <bcf:citekey order="30">Ludewig:SoftwareEngineering</bcf:citekey>
-    <bcf:citekey order="31">Vermesan:TheInternetOfThings</bcf:citekey>
-    <bcf:citekey order="32">Hersent:TheInternetOfThings</bcf:citekey>
-    <bcf:citekey order="33">Contiki-syslog</bcf:citekey>
-    <bcf:citekey order="34">Ott2012</bcf:citekey>
-    <bcf:citekey order="35">zigbee-ip</bcf:citekey>
-    <bcf:citekey order="36">RFC6550</bcf:citekey>
-    <bcf:citekey order="37">tsiftes10rpl</bcf:citekey>
-    <bcf:citekey order="38">ko11beyond</bcf:citekey>
-    <bcf:citekey order="39">dunkels11contikimac</bcf:citekey>
-    <bcf:citekey order="40">dunkels11adhoc</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">
