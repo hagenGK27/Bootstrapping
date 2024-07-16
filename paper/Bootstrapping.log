@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.11)  16 JUL 2024 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.11)  16 JUL 2024 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1121,7 +1121,11 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
- (./Bootstrapping.aux)
+ (./Bootstrapping.aux
+
+LaTeX Warning: Label `fig:meinbild' multiply defined.
+
+)
 \openout1 = `Bootstrapping.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -1355,7 +1359,7 @@ chapter 1.
 ]
 chapter 2.
 [3]
-<pictures/BootstrappingExample.png, id=89, 1405.25pt x 575.14874pt>
+<pictures/BootstrappingExample.png, id=83, 1405.25pt x 575.14874pt>
 File: pictures/BootstrappingExample.png Graphic file (type png)
 <use pictures/BootstrappingExample.png>
 Package pdftex.def Info: pictures/BootstrappingExample.png  used on input line 47.
@@ -1363,9 +1367,15 @@ Package pdftex.def Info: pictures/BootstrappingExample.png  used on input line 4
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 58.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4 <./pictures/BootstrappingExample.png>]) (./chapter/03_Implementation.tex [5] [6]
+) [4 <./pictures/BootstrappingExample.png>] [5]
+<pictures/PlotBootstrappingExample.png, id=104, 412.6617pt x 328.8285pt>
+File: pictures/PlotBootstrappingExample.png Graphic file (type png)
+<use pictures/PlotBootstrappingExample.png>
+Package pdftex.def Info: pictures/PlotBootstrappingExample.png  used on input line 107.
+(pdftex.def)             Requested size: 441.01772pt x 351.42656pt.
+) (./chapter/04_Conclusion.tex [6 <./pictures/PlotBootstrappingExample.png>]
 chapter 3.
-) (./chapter/04_Conclusion.tex [7
+) (./chapter/05_References.tex [7
 
 
 ] [8
@@ -1373,46 +1383,30 @@ chapter 3.
 
 ]
 chapter 4.
-) (./chapter/05_References.tex [9] [10
 
-
-]
-chapter 5.
-
-Overfull \hbox (3.58064pt too wide) in paragraph at lines 11--19
+Overfull \hbox (3.58064pt too wide) in paragraph at lines 11--20
 \T1/lmr/m/n/11.5 (-10) https://chrisbogner.github.io/datenanalyse/bootstrapping-und-konfidenzintervalle.html htt-
  []
 
 
-Overfull \hbox (9.66182pt too wide) in paragraph at lines 11--19
+Overfull \hbox (9.66182pt too wide) in paragraph at lines 11--20
 \T1/lmr/m/n/11.5 (-10) ps://de.wikipedia.org/wiki/Konfidenzintervall htt-ps://datatab.de/tutorial/konfidenzintervall
  []
 
 
-Overfull \hbox (87.37064pt too wide) in paragraph at lines 11--19
+Overfull \hbox (87.37064pt too wide) in paragraph at lines 11--20
 \T1/lmr/m/n/11.5 (-10) htt-ps://www.investopedia.com/terms/c/confidenceinterval.asp htt-ps://de.wikipedia.org/wiki/Standardfehler
  []
 
-) [11] [12
 
+Overfull \hbox (53.16104pt too wide) in paragraph at lines 11--20
+\T1/lmr/m/n/11.5 (-10) the-bootstrap-method-58bcb51b4d60 https://jillian-green.medium.com/applications-of-bootstrapping-
+ []
 
-]
-Package tocbasic Info: character protrusion at lol deactivated on input line 116.
- (./Bootstrapping.lol)
-\tf@lol=\write9
-\openout9 = `Bootstrapping.lol'.
+) [9] (./Bootstrapping.aux)
 
- [13]
+LaTeX Warning: There were multiply-defined labels.
 
-LaTeX Warning: Empty bibliography on input line 127.
-
-
-Package biblatex Warning: Keyword 'online' not found on input line 128.
-
-
-LaTeX Warning: Empty bibliography on input line 128.
-
-(./Bootstrapping.aux)
 Package rerunfilecheck Info: File `Bootstrapping.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Bootstrapping.run.xml'.
@@ -1420,18 +1414,18 @@ Package logreq Info: Writing requests to 'Bootstrapping.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39367 strings out of 478287
- 774311 string characters out of 5849289
- 1682746 words of memory out of 5000000
- 56766 multiletter control sequences out of 15000+600000
- 518932 words of font info for 96 fonts, out of 8000000 for 9000
+ 39354 strings out of 478287
+ 774230 string characters out of 5849289
+ 1682729 words of memory out of 5000000
+ 56758 multiletter control sequences out of 15000+600000
+ 519205 words of font info for 99 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  115i,19n,109p,10667b,2455s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Bootstrapping.pdf (17 pages, 526769 bytes).
+Output written on Bootstrapping.pdf (13 pages, 543114 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 30871 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 179 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 30852 words of extra memory for PDF output out of 35830 (max. 10000000)
 

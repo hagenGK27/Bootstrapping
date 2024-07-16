@@ -9,10 +9,7 @@
 \contentsline {section}{\numberline {2.2}Bootstrapping methodology}{4}{section.10}%
 \contentsline {subsection}{\numberline {2.2.1}Theory}{4}{subsection.11}%
 \contentsline {subsection}{\numberline {2.2.2}Example}{5}{subsection.16}%
-\contentsline {chapter}{\numberline {3}Implementation of bootstrapping}{7}{chapter.20}%
-\contentsline {section}{\numberline {3.1}Algorithm and pseudocode}{7}{section.21}%
-\contentsline {section}{\numberline {3.2}Implementation in Python}{7}{section.22}%
-\contentsline {chapter}{\numberline {4}Conclusion}{9}{chapter.23}%
-\contentsline {chapter}{\numberline {5}References}{11}{chapter.24}%
-\contentsline {chapter}{\nonumberline {Quelltextverzeichnis}}{13}{chapter*.25}%
+\contentsline {section}{\numberline {2.3}Implementation results}{6}{section.20}%
+\contentsline {chapter}{\numberline {3}Conclusion}{7}{chapter.22}%
+\contentsline {chapter}{\numberline {4}References}{9}{chapter.23}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
