@@ -92,13 +92,13 @@ pdfproducer = {pdflatex}
 \input{chapter/01_Introduction.tex}
 \input{chapter/02_Foundations.tex}
 \input{chapter/03_Implementation.tex}
-\input{chapter/04_Example.tex}
-\input{chapter/06_Conclusion.tex}
+\input{chapter/04_Conclusion.tex}
+\input{chapter/05_References.tex}
 
 %% Anhang
-\cleardoubleoddpage
-\appendix
-\input{chapter/99_Appendix.tex}
+%\cleardoubleoddpage
+%\appendix
+%\input{chapter/99_Appendix.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,16 +106,11 @@ pdfproducer = {pdflatex}
 %% Abkürzungsverzeichnis
 % 	Befehl: makeindex Thesis.nlo -s nomencl.ist -o Thesis.nls
 %
-\input{references/acronyms.tex}
-\cleardoublepage
-\markboth{\nomname}{\nomname}
-\printnomenclature
-
 %% Abbildungsverzeichnis
-\listoffigures \clearpage
+%\listoffigures \clearpage
 
 %% Tabellenverzeichnis
-\listoftables \clearpage
+%\listoftables \clearpage
 
 %% Quelltextverzeichnis
 \lstlistoflistings \clearpage
@@ -123,19 +118,21 @@ pdfproducer = {pdflatex}
 %% Stichwortverzeichnis
 %	Befehl: makeindex Thesis
 %
-\printindex \clearpage
+%\printindex \clearpage
 
 %% Literaturverzeichnis
 %	Befehl: biber Thesis
-%
-\printbibliography[heading=bibintoc, title={\babel{Literaturverzeichnis}{Bibliography}}]
-\clearpage
+
+%% Literaturverzeichnis
+\printbibliography[heading=bibintoc, title={Literaturverzeichnis}]
+\printbibliography[heading=bibintoc, keyword={online}, title={Onlinequellen}]\clearpage
+
+
+%\printbibliography[heading=bibintoc, title={Literaturverzeichnis}]
+%\clearpage
 %Literaturverzeichnisse getrennt nach Stichwort
 %\printbibliography[heading=bibintoc, keyword={book}, title={Literaturverzeichnis}]\clearpage
 %\printbibliography[heading=bibintoc, keyword={online}, title={Onlinequellen}]\clearpage
 %\printbibliography[heading=bibintoc, keyword={image}, title={Bildquellen}]\clearpage
-
-%% Erklärung zur Eigenständigkeit
-\input{Eigenstaendigkeitserklaerung}
 
 \end{document}

@@ -1,0 +1,15 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{6LoWPAN}]\begingroup IPv6 over Low power Wireless Personal Area Network\nomeqref {A.0}\nompageref{11}
+  \item [{AC}]\begingroup Alternating Current (Wechselstrom)\nomeqref {A.0}\nompageref{11}
+  \item [{ANSI}]\begingroup American National Standards Institute\nomeqref {A.0}\nompageref{11}
+  \item [{API}]\begingroup Application Programming Interface\nomeqref {A.0}\nompageref{11}
+  \item [{APS}]\begingroup Application Support Sublayer (ZigBee)\nomeqref {A.0}\nompageref{11}
+  \item [{ASDU}]\begingroup Application Service Data Unit\nomeqref {A.0}\nompageref{11}
+  \item [{BAN}]\begingroup Body Area Network\nomeqref {A.0}\nompageref{11}
+  \item [{BSD}]\begingroup Berkeley Software Distribution\nomeqref {A.0}\nompageref{11}
+  \item [{EU}]\begingroup Europäische Union\nomeqref {A.0}\nompageref{11}
+  \item [{PDU}]\begingroup Protocol Data Unit\nomeqref {A.0}\nompageref{11}
+
+\end{thenomenclature}
